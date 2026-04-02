@@ -1,0 +1,38 @@
+#op {
+    width: 300px;
+    border: 1px dotted blueviolet;}
+#o {
+    height: 100px;
+    border: 1px solid gold;
+    margin: 30px;
+}
+
+#z2 {
+    width: 300px;
+    border: 1px dotted blueviolet;
+}
+#zz2 {
+    height: 100px;
+    border: 1px dotted green;
+    margin: 30px;
+}
+#zzz2 {
+    width: 200px;
+    height: 60px;
+    border: 1px solid red;
+    margin: 20px;
+}
+#z3 {
+    width: 200px;
+    height: 300px;
+    border: 1px solid red;
+}
+#zz3 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    margin-top: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 70px;
+}
