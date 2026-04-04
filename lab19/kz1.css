@@ -28,11 +28,81 @@
     border: 1px solid red;
 }
 #zz3 {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border: 1px solid green;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-right: 50px;
     margin-left: 50px;
     margin-bottom: 70px;
+}
+#z4 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
+#zz4 {
+    width: 150px;
+    height: 125px;
+    border: 1px solid green;
+    margin-top: 35px;
+    margin-right: 20px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+}
+#z5 {
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+#zz5 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid green;
+    margin-top: 20px;
+    margin-left: 95px;
+}
+#z6 {
+    width: 100px;
+    height: 150px;
+    border: 1px solid yellow;
+}
+#zz6 {
+    width: 50px;
+    height: 25px;
+    border: 1px dotted blue;
+    margin: 50px 25px;
+}
+#z7 {
+    width: 100px;
+    height: 50px;
+    border: 1px solid yellow;
+}
+#zz7 {
+    width: 50px;
+    height: 25px;
+    border: 1px dotted blue;
+    margin: 10px 25px;
+}
+#z8 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid yellow;
+}
+#zz8 {
+    width: 50px;
+    height: 25px;
+    border: 1px dotted blue;
+    margin: 60px 25px 10px;
+}
+#z9 {
+    width: 100px;
+    height: 50px;
+    border: 1px solid yellow;
+}
+#zz9 {
+    width: 50px;
+    height: 20px;
+    border: 1px dotted blue;
+    margin: 10px 25px 10px;
 }
