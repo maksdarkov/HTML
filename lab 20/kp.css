@@ -1,0 +1,45 @@
+#elem {
+    padding: 30px;
+    width: 300px;
+    border: 1px solid red;
+    text-align: justify;
+}
+#p2 {
+    width: 100px;
+    height: 100px;
+    background: green;
+    margin-bottom: 20px;
+}
+#pp2 {
+    padding: 25px;
+    width: 100px;
+    height: 100px;
+    background: #f1f1f1;
+}
+#p3 {
+    width: 100px;
+    height: 100px;
+    background: #f1f1f1;
+    margin-bottom: 20px;
+}
+#pp3 {
+    width: 100px;
+    height: 100px;
+    background: #f1f1f1;
+    padding: 25px;
+    border: 10px solid green;
+}
+#p4 {
+    width: 100px;
+    height: 100px;
+    background: #f1f1f1;
+    margin-bottom: 20px;
+}
+#pp4 {
+    width: 100px;
+    height: 100px;
+    background: #f1f1f1;
+    padding: 25px;
+    border: 10px solid green;
+    box-sizing: border-box;
+}
